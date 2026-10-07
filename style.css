@@ -1,0 +1,77 @@
+/* ===== EXTERNAL CSS (shared by all pages) ===== */
+/* Only using: color, background-color, text-align, border, background-image, background */
+
+body {
+    background-color: #EEF1EE;
+    background-image: linear-gradient(#F3F5F2, #DDE3DF);
+    color: #3B4A5A;               /* charcoal blue */
+    text-align: center;
+}
+
+h1 {
+    color: #3B4A5A;
+    border-bottom: 3px solid #A8B99A;   /* sage green */
+}
+
+h2 {
+    color: #4A5C6E;
+}
+
+h3 {
+    color: #6B7B8C;
+    background-color: #E3E8E1;
+    border: 1px solid #A8B99A;
+}
+
+/* headings used in About page */
+.hubs {
+    color: #3B4A5A;
+    background-color: #C9D5BF;          /* soft sage */
+    border: 2px solid #A8B99A;
+}
+
+h5.hubs {
+    background-color: #E1E5E8;          /* pastel gray */
+    border: 1px dashed #8A98A6;
+}
+
+ul, ol {
+    color: #4A5C6E;
+    text-align: center;
+}
+
+li {
+    color: #4A5C6E;
+}
+
+img {
+    border: 4px solid #A8B99A;
+}
+
+a {
+    color: #4A5C6E;
+}
+
+/* navigation bar (same on every page) */
+.nav {
+    background-color: #3B4A5A;
+    text-align: center;
+    border: 2px solid #3B4A5A;
+}
+
+.nav a {
+    color: #E1E5E8;
+}
+
+/* caption under photos */
+.caption {
+    color: #6B7B8C;
+    background-color: #E1E5E8;
+    border: 1px solid #C4CBD1;
+}
+p {
+    color: #4A5C6E;
+    background-color: #F3F5F2;
+    text-align: justify;
+    border-left: 4px solid #A8B99A;
+}
